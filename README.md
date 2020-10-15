@@ -3,3 +3,5 @@ It is a trading strategy simulation program coded in C ++ with the Qt framework 
 
 Include a report file, but in french (Rapport Trading Simulator LO21.pdf)
 
+Doxygen documentation in html folder
+
